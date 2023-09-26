@@ -10,3 +10,7 @@ An in-progress Spotify clone with a few twists!
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+## In Progress 
+
+<img src="https://raw.githubusercontent.com/midorili/Songify/blob/Images/Layout.png" width="250">
