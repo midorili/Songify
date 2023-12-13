@@ -13,4 +13,5 @@ A Spotify clone with a few twists!
 
 ## In Progress 
 
-<img src="https://raw.githubusercontent.com/midorili/Songify/Images/Layout.png" width="850">
+<img src="https://raw.githubusercontent.com/midorili/Songify/Images/songify/Songify.png" width="850">
+
