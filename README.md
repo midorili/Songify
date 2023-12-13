@@ -1,7 +1,7 @@
 ## Songify
 
 ## Overview
-An in-progress Spotify clone with a few twists! 
+A Spotify clone with a few twists! 
 
 ## Tech Stack:
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
